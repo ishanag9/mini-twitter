@@ -3,3 +3,5 @@
 
 ##### To run, download the miniTwitter.html file and run on any browser. (Preferred Browser: Chrome)
 
+###### Overview:
+![](project.png)
